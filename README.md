@@ -14,7 +14,7 @@ IDE used: Eclipse
   I also developed an User Interface through the method _ *userInterface()* _ to allow the user to run tests and use the system.
  
  ```
-Please select from one of the following options: [0-5]
+Please select from one of the following options: [0-6]
 0 - Use the user interface, enter in shopping mode
 1 - Add elements to the cart
 2 - Know item price
