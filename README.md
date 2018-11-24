@@ -139,7 +139,7 @@ My approach was to create a general piece of software aimed at the commercial se
 I decided on a simplistic approach which would not involve using many classes as objects as I did not deem this necessary for the project - my only object is the UnidaysDiscountChallenge. This would only allow the use of one single basket per customer; however, it would be possible to instantiate the object multiple times which would, in essence, allow for the application of alternate discount rules per object.
 
 
-## Testes
+## Tests
 I wrote three test cases to test my program.
 * **UnidaysDiscountChallengeTest** tests all the examples shown in the specification.
 
