@@ -105,7 +105,8 @@ The total variable is increased to based on the price of the product and it's re
 
 		}
 ```
-** How the price is calculated **
+
+## How the price is calculated 
 Since my main focus is on give to create a program to be used in a real context so with the possibility to be edited easily without changing the code, I saved all the products information in a text file outside the Java code.
 Prices are calcualted in this way:
 if the element added has a discount so value of its third column is not equal to zero check if the discount applies otherwise add normal price
